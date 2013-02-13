@@ -1,4 +1,4 @@
-###Facebook oAuth with the Temboo SDK
+###Khan Academy oAuth with the Temboo SDK
 This example demostrates using the Temboo SDK to build a simple PHP app that performs Khan Academy oAuth authentication,
 then uses the retrieved oAuth token to list Khan Academy user information and suggested exercises. 
 
