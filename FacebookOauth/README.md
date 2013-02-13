@@ -8,9 +8,9 @@ then uses the retrieved oAuth access token to list Facebook Likes.
  3. Sign up for a Facebook account 
  4. Register a new Facebook app: see instructions at https://live.temboo.com/library/Library/Facebook/OAuth/ on how to configure the app
  5. Clone this repo
- 6. Edit initializeOauth.php and finalizeOauth.php to include your Temboo account information, and Facebook app ID and secret
- 7. Place both PHP files, along with the Temboo SDK, in the docroot of your webserver
- 8. Browse to initializeOauth.php
+ 6. Edit the constants defined in facebookOauth.php to include your Temboo account information, Facebook app ID and secret, and the URL where the page can be accessed
+ 7. Place the facebookOauth.php file, along with the Temboo SDK, in the docroot of your webserver
+ 8. Browse to facebookOauth.php
 
 ###Copyright and License
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
