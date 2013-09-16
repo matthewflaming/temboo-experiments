@@ -1,6 +1,6 @@
 ###Tumblr oAuth with the Temboo SDK
 This example demostrates using the Temboo SDK to build a simple PHP app that performs Tumblr Oauth authentication,
-then uses the retrieved oAuth token to list Khan Academy user information and suggested exercises. 
+then uses the retrieved Oauth token to list Tumblr user information. 
 
 ###Quickstart
  1. Sign up for a free account at https://www.temboo.com
